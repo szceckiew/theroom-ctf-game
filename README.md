@@ -12,3 +12,6 @@ https://drive.google.com/file/d/1sVxp719gU66cVeRNV124wOQs2QFBCYqY/view?usp=shari
 <img width="1919" height="1079" alt="Zrzut ekranu 2025-10-22 152014" src="https://github.com/user-attachments/assets/234154d6-212e-4cb9-acc1-9d020780429a" />
 
 <img width="1906" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfb1890b-14a9-46c8-bde4-1e928cf7473f" />
+
+### Original assets
+https://kenney.nl/assets/1-bit-pack
